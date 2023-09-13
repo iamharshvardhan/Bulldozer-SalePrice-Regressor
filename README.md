@@ -15,7 +15,7 @@ The objective of this project is to create a machine learning model/estimator th
 * Run the cells in the notebook to train and evaluate the machine-learning model.
 
 ### Results
-The machine learning model (`RandomForestRegressor`) achieves the score of 0.45174586332956956 on `Root_Mean_Square_Log_Error` metric.
+The machine learning model (`RandomForestRegressor`) achieves the score of "0.45174586332956956" on `Root_Mean_Square_Log_Error` metric.
 
 ### License
 This project is licensed under the `MIT License`.
