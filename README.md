@@ -7,6 +7,7 @@ The objective of this project is to create a machine learning model/estimator th
 * Scikit-learn
 * Pandas
 * NumPy
+* Matplotlib
 
 ### Instructions
 * Clone the repository.
