@@ -1,4 +1,7 @@
 # Bulldozer-SalePrice-Regressor
+
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/CatD9T.jpg", height=500></center>
+
 The objective of this project is to create a machine learning model/estimator that can forecast the selling price of bulldozers using factors such as their production date, dimensions, model, and other relevant attributes.
 
 ### Prerequisites
